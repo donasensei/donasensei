@@ -1,7 +1,6 @@
 # let all = "love lain";
 # let all = "love lain";
 # let all = "love lain";
-# let all = "love lain";
 
 ----------
 
