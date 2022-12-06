@@ -1,7 +1,20 @@
-### let all = "love lain";
-### let all = "love lain";
-### let all = "love lain";
-### let all = "love lain";
+# let all = "love lain";
+# let all = "love lain";
+# let all = "love lain";
+# let all = "love lain";
+
+----------
+
+## _**Resently**_
+_I cleaned some neglected or spaghettied Repos._
+
+_Blog is temporarily closed. (planning to change CMS)_    
+  
+  
+__Therefore...__
+
+
+### Now Renewal in progress...
 
 
 <!---
