@@ -5,7 +5,8 @@
 ----------
 
 ## _**Resently**_
-_I cleaned some neglected or spaghettied Repos._
+_I cleaned some neglected or spaghettied Repos._ 
+_Projects integration/migration WIP_
 
 _Blog is temporarily closed. (planning to change CMS)_    
   
