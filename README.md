@@ -9,8 +9,6 @@
 88 `"8bbdP"Y8 88 88       88  
 ~~~
 # let all = "love lain";
-# let all = "love lain";
-# let all = "love lain";
 ------
 
 ## _**Resently**_
